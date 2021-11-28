@@ -1,0 +1,6 @@
+Threading:
+The point/path of execution is called thread, ie, main()
+
+MultiThreading:
+
+Test->new MyThread()->start()->Thread(Start)->MyThread->run()
